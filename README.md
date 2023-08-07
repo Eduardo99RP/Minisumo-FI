@@ -13,3 +13,4 @@ Este Minisumo es ideal para estudiantes, educadores y cualquier persona interesa
 Facultad de Ingenieria
 
 Diseño en 3D
+![Diseño3D](https://github.com/Chasterboy/Minisumo-FI/assets/68937183/84b2393a-b4ce-4c4c-bde0-aa8b7034d516)
