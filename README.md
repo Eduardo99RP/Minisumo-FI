@@ -12,5 +12,16 @@ Características destacadas:
 Este Minisumo es ideal para estudiantes, educadores y cualquier persona interesada en sumergirse en el emocionante mundo de la robótica.
 Facultad de Ingenieria
 
-Diseño en 3D
+## Diseño en 3D
 ![Diseño3D](https://github.com/Chasterboy/Minisumo-FI/assets/68937183/84b2393a-b4ce-4c4c-bde0-aa8b7034d516)
+
+## Materiales a utilizar
+- 1 Arduino nano
+- 1 Driver TB6612FNG
+- 1 Sensor ultrasonico HC-SR04
+- 2 motores N20 de 1000 RPM
+- 2 sujetadores para los motores
+- 1 bateria
+- Chasis
+
+## Esquema de conexión 
