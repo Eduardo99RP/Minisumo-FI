@@ -29,7 +29,7 @@ Facultad de Ingenieria
 
 
 
-##Codigo:
+## Codigo:
 Puedes encontrar el código en [este repositorio](https://github.com/Chasterboy/Minisumo-FI/blob/main/Codigo/Minisumo-FI/Minisumo-FI.ino).
 
 
